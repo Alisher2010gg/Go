@@ -1,0 +1,47 @@
+.halls {
+	text-align: center;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 50px;
+}
+
+.halls__list {
+	list-style: none;
+	padding: 0 0;
+	position: relative;
+}
+
+.halls-item {
+	width: 1180px;
+	height: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0 auto;
+	font-weight: 700;
+	font-size: 70px;
+	line-height: 10;
+}
+
+.halls-item:not(:last-child) {
+	margin: 0 auto 60px;
+}
+
+.vibes {
+	background-image: url(/images/Rectangle\ 29.png);
+	background-repeat: no-repeat;
+}
+
+.star__wars {
+	background-image: url(/images/Rectangle\ 30.png);
+	background-repeat: no-repeat;
+}
+
+.wild__west {
+	background-image: url(/images/Rectangle\ 31.png);
+	background-repeat: no-repeat;
+}
+
+.neon__style {
+	background-image: url(/images/Rectangle\ 32.png);
+	background-repeat: no-repeat;
+}

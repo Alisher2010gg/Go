@@ -1,0 +1,20 @@
+.footer__stuff {
+	color: purple;
+	font-weight: 900;
+	font-size: 44px;
+}
+
+.new__game__section__paragraf {
+	font-weight: 400;
+}
+
+.footer__Game_over {
+	font-weight: 900;
+	font-size: 44px;
+	line-height: 50px;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 44px;
+	line-height: 50px;
+}

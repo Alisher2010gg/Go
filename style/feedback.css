@@ -1,0 +1,103 @@
+.feedback {
+	padding: 50px 0;
+}
+
+.feedback__title {
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 50px;
+	text-transform: uppercase;
+	text-align: center;
+	margin: 0 0;
+}
+
+.card-one__subtitle {
+	position: relative;
+	padding: 306px 0 0 90px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.card-one__subtitle::before {
+	content: "";
+	width: 280px;
+	height: 280px;
+	background-image: url("../images/feedback1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	left: 5px;
+	bottom: 45px;
+}
+
+.card-one__paragraph {
+	position: relative;
+	padding-left: 353px;
+	bottom: 240px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.feedback__item {
+	height: 350px;
+}
+
+.card-two__subtitle {
+	position: relative;
+	padding: 306px 0 0 90px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.card-two__subtitle::before {
+	content: "";
+	width: 280px;
+	height: 280px;
+	background-image: url("../images/feedback2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	left: 5px;
+	bottom: 45px;
+}
+
+.card-two__paragraph {
+	position: relative;
+	padding-left: 353px;
+	bottom: 240px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.card-three__subtitle {
+	position: relative;
+	padding: 306px 0 0 90px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}
+
+.card-three__subtitle::before {
+	content: "";
+	width: 280px;
+	height: 280px;
+	background-image: url("../images/feedback3.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: absolute;
+	left: 5px;
+	bottom: 45px;
+}
+
+.card-three__paragraph {
+	position: relative;
+	padding-left: 353px;
+	bottom: 240px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+}

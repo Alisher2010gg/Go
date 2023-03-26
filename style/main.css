@@ -1,0 +1,39 @@
+.main__vibes {
+	font-weight: 700;
+	font-size: 70px;
+	margin: 0 0 37px;
+	text-align: center;
+	position: relative;
+	z-index: 3;
+	top: 350px;
+}
+
+.main__starwars {
+	font-weight: 700;
+	font-size: 70px;
+	margin: 0 0 37px;
+	text-align: center;
+	position: relative;
+	z-index: 3;
+	top: 350px;
+}
+
+.main__wildset {
+	font-weight: 700;
+	font-size: 70px;
+	margin: 0 0 37px;
+	text-align: center;
+	position: relative;
+	z-index: 3;
+	top: 350px;
+}
+
+.main__neonstyle {
+	font-weight: 700;
+	font-size: 70px;
+	margin: 0 0 37px;
+	text-align: center;
+	position: relative;
+	z-index: 3;
+	top: 350px;
+}

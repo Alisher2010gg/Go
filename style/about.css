@@ -1,0 +1,99 @@
+.about {
+	max-width: 1180px;
+	height: 692px;
+	margin: 0 auto;
+	position: relative;
+	padding-bottom: 50px;
+}
+
+.about__title {
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.about__entertainments {
+	max-width: 566px;
+	height: auto;
+	position: relative;
+	display: inline-block;
+	margin: 0 0;
+}
+
+.about__paragraph {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	white-space: pre-line;
+	margin-bottom: 59px;
+	display: inline-block;
+	padding: 0 0;
+	max-width: 488px;
+	min-height: 222px;
+	position: relative;
+	bottom: 349px;
+	left: 80px;
+}
+
+.about__quote {
+	font-weight: 400;
+	font-size: 44px;
+	line-height: 50px;
+	white-space: pre-line;
+	text-transform: uppercase;
+	position: absolute;
+	margin: 0 0;
+	max-width: 455px;
+	min-height: 191px;
+	display: inline-block;
+	left: 682px;
+	bottom: 182px;
+}
+
+.about__quote::before {
+	content: "";
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../images/G.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: absolute;
+	left: -32px
+}
+
+.about__quote::after {
+	content: "";
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-image: url(../images/G.svg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: absolute;
+	right: 95px;
+	top: 155px;
+	transform: rotate(180deg);
+	margin: 0 0 40px 8px;
+}
+
+.about__cite {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 28px;
+	padding-left: 109px;
+		margin: 0 0;
+		white-space: pre-line;
+		text-align: left;
+		max-width: 388px;
+		display: inline-block;
+		position: absolute;
+		left: 740px;
+		bottom: 68px;
+		min-height: 84px;
+		background-image: url(../images/Ellipse\ 2.png);
+		background-repeat: no-repeat;
+		background-size: 80px 80px;
+		background-position: 0;
+}

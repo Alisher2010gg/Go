@@ -1,0 +1,55 @@
+.contacts {
+	padding-top: 50px;
+}
+
+.contacts__title {
+	margin: 0 0 54px;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 40px;
+	line-height: 50px;
+}
+
+.contacts__adress {
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	white-space: pre-line;
+	background-image: url(../images/location.svg);
+	background-repeat: no-repeat;
+	padding: 0 0 0 50px;
+	background-size: 30px;
+	background-position: left center;
+}
+
+.contacts__info {
+	margin: 0 0 40px;
+	white-space: pre-line;
+}
+
+.contacts__phone {
+	color: #fff;
+	text-decoration: none;
+	background-image: url(../images/bx_bxs-phone-call.svg);
+	background-repeat: no-repeat;
+	padding: 0 0 11px 50px;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	background-size: 32px;
+	background-position: left top;
+}
+
+.contacts__mail {
+	color: #fff;
+	text-decoration: none;
+	background-image: url(../images/Group.svg);
+	background-repeat: no-repeat;
+	padding: 0 0 0 50px;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 28px;
+	background-size: 28px;
+	background-position: left center;
+}

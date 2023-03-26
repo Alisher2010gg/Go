@@ -1,0 +1,34 @@
+.social {
+	padding: 0 0;
+}
+
+.social__item {
+	list-style: none;
+	display: inline-block;
+	padding-right: 27px;
+}
+
+.social__link {
+	display: block;
+	width: 50px;
+	height: 50px;
+	color: #fff;
+	outline: 1px solid transparent;
+	outline-offset: 3px;
+	border-radius: 50%;
+	transition-property: color, outline-color;
+	transition-duration: 0.3s, 0.2s;
+	transition-timing-function: ease-in-out;
+}
+
+.social__link:hover {
+	color: #CD06FF;
+}
+
+.social__link:focus {
+	outline-color: #CD06FF;
+}
+
+.social__link:active {
+	color: #840AA3;
+}
